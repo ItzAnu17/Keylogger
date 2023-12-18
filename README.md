@@ -20,33 +20,21 @@ The goal of this project is to build a keylogger which will collect the input da
 
 <p align="center">
 Information which has been saved in the txt file: <br/>
-Entering Website <br/>
+Entering Website: <br/>
 <br/>
-<img src="https://imgur.com/8a0Ls7D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8a0Ls7D.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Entering Email or username:  <br/>
+<img src="https://imgur.com/UTgmkXT.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Entering Password: <br/>
+<img src="https://imgur.com/dgxhy9C.png" height="80%" width="80%" alt="Pic"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 
 <!--
