@@ -20,7 +20,8 @@ The goal of this project is to build a keylogger which will collect the input da
 
 <p align="center">
 Information which has been saved in the txt file: <br/>
-Entering Website
+Entering Website <br/>
+<br/>
 <img src="https://imgur.com/8a0Ls7D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
